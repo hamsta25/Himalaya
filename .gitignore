@@ -1,0 +1,26 @@
+# Build artifacts and dependencies
+node_modules/
+dist/
+build/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Personal notes (if any)
+notes/
+scratch/
