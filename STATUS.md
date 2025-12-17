@@ -122,7 +122,7 @@ Phase 4: Deployment & Launch         [░░░░░░░░░░]  0%
 ## 🎓 Educational Status
 
 **Current Academic Standing:**
-- **Institution:** Politecnico di Milano
+- **Institution:** Polytechnic of Turin
 - **Degree:** MSc Computer Engineering
 - **Year:** Final Year
 - **Specialization:** Embedded Systems
@@ -178,12 +178,21 @@ Phase 4: Deployment & Launch         [░░░░░░░░░░]  0%
 
 ## 💼 Professional Status
 
-**Current Role:**  
-- **Position:** Embedded Systems Engineer
-- **Company:** FKUnited Inc.
+**Current Roles:**  
+- **Position:** Field Service Engineer
+- **Company:** Tomra Recycling
+- **Location:** Parma, Emilia Romagna, Italy
+- **Status:** 🟢 Active
+
+**Entrepreneurship:**
+- **Role:** CEO, Founder & President
+- **Company:** FKUnited Engineering Consulting and Service Company
+- **Services:** B2B and B2Client engineering consulting
 - **Status:** 🟢 Active
 
 **Key Projects:**
+- 🔄 Field service operations (Ongoing)
+- 🔄 Engineering consulting projects (Ongoing)
 - 🔄 MIT-level projects (Ongoing)
 - 🔄 Embedded systems development (Ongoing)
 - ✅ Academic projects (Various completed)

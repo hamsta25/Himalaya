@@ -84,8 +84,8 @@ graph TB
     
     Category1 --> Italy[🇮🇹 Italy<br/>Residence Permit<br/>✅ Active<br/>For studies & work]
     
-    Category2 --> UK[🇬🇧 United Kingdom<br/>6-month Study<br/>✅ Obtained 2024<br/>Education opportunity]
-    Category2 --> Argentina[🇦🇷 Argentina<br/>6-month Study<br/>✅ Obtained 2024<br/>Research & learning]
+    Category2 --> UK[🇬🇧 United Kingdom<br/>6-month Study Visa<br/>✅ Obtained 2024<br/>University of Exeter<br/>Approved via UniMoRE]
+    Category2 --> Argentina[🇦🇷 Argentina<br/>6-month Study Visa<br/>✅ Obtained 2024<br/>UNC Córdoba (FAMAF & FCEFyN)<br/>Approved via Polito]
     
     Category3 --> Planning1[No tourist visas yet<br/>Focus on study/education<br/>Travel will follow]
     

@@ -74,12 +74,12 @@ graph LR
     subgraph "Home & Current"
         direction TB
         Pakistan[🇵🇰 Pakistan<br/>Birthplace<br/>Faisalabad]
-        Italy[🇮🇹 Italy<br/>Current Residence<br/>Milan/Modena]
+        Italy[🇮🇹 Italy<br/>Current Residence<br/>Turin/Modena]
     end
     
     subgraph "Europe"
         direction TB
-        UK[🇬🇧 United Kingdom<br/>✅ 6-month Study Visa<br/>2024]
+        UK[🇬🇧 United Kingdom<br/>✅ 6-month Study Visa<br/>University of Exeter<br/>Via UniMoRE - 2024]
         EUMore[🇪🇺 More Europe<br/>Future Possibilities]
     end
     
@@ -104,7 +104,7 @@ graph LR
     
     subgraph "South America"
         direction TB
-        Argentina[🇦🇷 Argentina<br/>✅ 6-month Study Visa]
+        Argentina[🇦🇷 Argentina<br/>✅ 6-month Study Visa<br/>UNC Córdoba (FAMAF & FCEFyN)<br/>Via Polito]
         Brazil[🇧🇷 Brazil<br/>📍 Future]
         Chile[🇨🇱 Chile<br/>📍 Future]
         Colombia[🇨🇴 Colombia<br/>📍 Future]
@@ -225,8 +225,8 @@ timeline
 graph TB
     subgraph "Visas Obtained ✅"
         V1[🇮🇹 Italy<br/>Residence Permit<br/>✅ Active]
-        V2[🇬🇧 United Kingdom<br/>6-month Study<br/>✅ Obtained 2024]
-        V3[🇦🇷 Argentina<br/>6-month Study<br/>✅ Obtained 2024]
+        V2[🇬🇧 United Kingdom<br/>6-month Study Visa<br/>✅ Obtained 2024<br/>University of Exeter via UniMoRE]
+        V3[🇦🇷 Argentina<br/>6-month Study Visa<br/>✅ Obtained 2024<br/>UNC Córdoba via Polito]
     end
     
     subgraph "In Progress / Planning 🔄"

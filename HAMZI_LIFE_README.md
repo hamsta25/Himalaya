@@ -2,7 +2,7 @@
 
 ## About This Project
 
-This repository contains comprehensive documentation, diagrams, and planning materials for a future blog/webpage showcasing the life journey, educational achievements, and travel aspirations of **Hamza Ilyas** - a 25-year-old Pakistani computer engineering student pursuing an MSc at Politecnico di Milano.
+This repository contains comprehensive documentation, diagrams, and planning materials for a future blog/webpage showcasing the life journey, educational achievements, and travel aspirations of **Hamza Ilyas** - a 25-year-old Pakistani computer engineering student pursuing an MSc at Polytechnic of Turin.
 
 ---
 
@@ -13,7 +13,7 @@ This repository contains comprehensive documentation, diagrams, and planning mat
 **Nationality:** Pakistani 🇵🇰  
 **Current Residence:** Italy 🇮🇹  
 **Education:**
-- **Current:** MSc in Computer Engineering (Final Year) - Politecnico di Milano
+- **Current:** MSc in Computer Engineering (Final Year) - Polytechnic of Turin
 - **Completed:** Bachelor's in Computer Engineering - University of Modena and Reggio Emilia (UniMoRE)
 
 **Specialization:** Embedded Systems Engineer  
@@ -30,8 +30,8 @@ This repository contains comprehensive documentation, diagrams, and planning mat
 As a young Pakistani with a green passport 🇵🇰, Hamza embarks on an ambitious journey to explore the world, build international connections, and experience diverse cultures across continents.
 
 ### Current Achievements
-- ✅ Successfully obtained 6-month study visa for **United Kingdom** 🇬🇧
-- ✅ Successfully obtained 6-month study visa for **Argentina** 🇦🇷
+- ✅ Successfully obtained 6-month study visa for **United Kingdom** 🇬🇧 (University of Exeter, approved through UniMoRE)
+- ✅ Successfully obtained 6-month study visa for **Argentina** 🇦🇷 (UNC Córdoba - FAMAF and FCEFyN, approved through Polytechnic of Turin)
 - ✅ Currently residing in **Italy** 🇮🇹
 
 ---
@@ -76,7 +76,7 @@ As a young Pakistani with a green passport 🇵🇰, Hamza embarks on an ambitio
 ## 📚 Educational Journey
 
 ### Master of Science - Computer Engineering
-**Institution:** Politecnico di Milano (Politecnico)  
+**Institution:** Polytechnic of Turin (Politecnico di Torino)  
 **Status:** Final Year (Expected Graduation: 2025/2026)  
 **Focus:** Embedded Systems
 
@@ -89,9 +89,13 @@ As a young Pakistani with a green passport 🇵🇰, Hamza embarks on an ambitio
 
 ## 💼 Professional Background
 
-**Current Role:** Embedded Systems Engineer  
-**Company:** FKUnited Inc.  
-**Industry:** Technology & Engineering
+**Current Role:** Field Service Engineer  
+**Company:** Tomra Recycling, Parma, Emilia Romagna, Italy  
+**Industry:** Recycling & Environmental Technology
+
+**Entrepreneurship:**
+- CEO, Founder & President of FKUnited Engineering Consulting and Service Company
+- B2B and B2Client engineering consulting services
 
 ### Key Projects & Achievements
 - MIT-level projects and presentations

@@ -34,7 +34,7 @@ timeline
                      : MIT-level projects & presentations
     
     section Master's Degree (2022-2026)
-        2022 : Enrolled at Politecnico di Milano
+        2022 : Enrolled at Polytechnic of Turin
              : MSc Computer Engineering
              : Specialization: Embedded Systems
         2023-2024 : Advanced coursework
@@ -80,7 +80,7 @@ graph TB
     
     UniMORE --> BScComplete[BSc Graduation ✅<br/>2022]
     
-    BScComplete --> Poly[Politecnico di Milano<br/>MSc Computer Engineering<br/>2022-2026]
+    BScComplete --> Poly[Polytechnic of Turin<br/>MSc Computer Engineering<br/>2022-2026]
     
     Poly --> Embedded[Specialization:<br/>Embedded Systems]
     

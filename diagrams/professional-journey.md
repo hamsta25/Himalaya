@@ -2,7 +2,7 @@
 
 ## Career Development & Technical Excellence
 
-This document visualizes Hamza Ilyas's professional journey as an Embedded Systems Engineer and his growth in the technology field.
+This document visualizes Hamza Ilyas's professional journey as a Field Service Engineer at Tomra Recycling and CEO of FKUnited Engineering Consulting, along with his growth in the technology field.
 
 ---
 
@@ -16,15 +16,15 @@ timeline
         2020 : First professional exposure
              : Embedded systems interest begins
              : Learning while studying
-        2021 : Joined FKUnited Inc.
-             : Embedded Systems Engineer role
+        2021 : Started engineering work
+             : Founded FKUnited Engineering Consulting
              : Professional career starts ⚡
     
     section Growth Phase (2021-2023)
         2021-2022 : Parallel BSc completion
                   : Real-world project experience
                   : Technical skills development
-        2022-2023 : Started MSc at Politecnico
+        2022-2023 : Started MSc at Polito
                   : Advanced embedded systems work
                   : Professional + Academic balance
     
@@ -32,14 +32,14 @@ timeline
         2023-2024 : MIT-level projects
                   : Technical presentations
                   : Industry recognition
-        2024-2025 : Senior-level responsibilities
-                  : Complex system design
+        2024-2025 : Field Service Engineer at Tomra
+                  : Engineering consulting growth
                   : Leadership opportunities
                   : Final year MSc student
     
     section Future Vision (2026+)
         2026 : MSc Graduation 🎓
-             : Senior Engineer status
+             : Expand consulting business
              : Advanced career opportunities
         2027+ : Technical leadership
               : Innovation & patents
@@ -60,21 +60,21 @@ graph TB
     
     Passion --> First[First Professional<br/>Opportunity<br/>2020]
     
-    First --> FKUnited[FKUnited Inc.<br/>Embedded Systems Engineer<br/>2021]
+    First --> Career[Started Engineering Work<br/>Founded FKUnited Consulting<br/>2021]
     
-    FKUnited --> Dual[Dual Track:<br/>Work + Studies]
+    Career --> Dual[Dual Track:<br/>Work + Studies]
     
     Dual --> BSc[Complete BSc<br/>2022<br/>UniMoRE]
     Dual --> ProfGrowth[Professional Growth<br/>Real Projects<br/>Technical Skills]
     
-    BSc --> MSc[Start MSc<br/>Politecnico di Milano<br/>2022]
+    BSc --> MSc[Start MSc<br/>Polytechnic of Turin<br/>2022]
     
     MSc --> Advanced[Advanced Learning<br/>+ Professional Work]
     ProfGrowth --> Advanced
     
     Advanced --> MIT[MIT-level Projects<br/>High-Quality Work<br/>Industry Recognition]
     
-    MIT --> Current[Current Position<br/>Final Year MSc Student<br/>Embedded Systems Engineer<br/>FKUnited Inc.]
+    MIT --> Current[Current Positions<br/>Final Year MSc Student<br/>Field Service Engineer - Tomra<br/>CEO - FKUnited Consulting]
     
     Current --> Future{Future Path<br/>2026+}
     
@@ -89,7 +89,7 @@ graph TB
     Academic --> Ultimate
     
     style Start fill:#90EE90
-    style FKUnited fill:#4169E1,color:#fff
+    style Career fill:#4169E1,color:#fff
     style Current fill:#FF69B4
     style Ultimate fill:#FFD700
 ```
@@ -188,24 +188,23 @@ xychart-beta
 
 ---
 
-## FKUnited Inc. Journey
+## Professional Experience Journey
 
 ```mermaid
 graph LR
-    subgraph "Role & Responsibilities"
-        R1[Embedded Systems<br/>Engineer]
-        R2[Hardware-Software<br/>Integration]
-        R3[System Design]
-        R4[Testing & Validation]
-        R5[Documentation]
+    subgraph "Current Roles"
+        R1[Field Service<br/>Engineer - Tomra]
+        R2[CEO & Founder<br/>FKUnited Consulting]
+        R3[Engineering<br/>Consulting Services]
     end
     
-    subgraph "Key Projects"
-        P1[IoT Solutions]
-        P2[Industrial Systems]
-        P3[MIT-level Projects]
-        P4[Research Initiatives]
-        P5[Innovation Projects]
+    subgraph "Key Areas"
+        P1[Field Operations]
+        P2[Technical Support]
+        P3[Embedded Systems]
+        P4[IoT Solutions]
+        P5[B2B Consulting]
+        P6[MIT-level Projects]
     end
     
     subgraph "Achievements"
@@ -213,22 +212,24 @@ graph LR
         A2[Project Delivery]
         A3[Professional Growth]
         A4[Industry Recognition]
-        A5[Team Collaboration]
+        A5[Entrepreneurship]
     end
     
     R1 --> P1
-    R2 --> P2
-    R3 --> P3
-    R4 --> P4
-    R5 --> P5
+    R1 --> P2
+    R2 --> P3
+    R2 --> P4
+    R2 --> P5
+    R3 --> P6
     
     P1 --> A1
-    P2 --> A2
-    P3 --> A3
-    P4 --> A4
-    P5 --> A5
+    P2 --> A1
+    P3 --> A2
+    P4 --> A2
+    P5 --> A3
+    P6 --> A4
     
-    A1 --> Success[Professional<br/>Success<br/>@ FKUnited Inc.]
+    A1 --> Success[Professional<br/>Success<br/>Multiple Roles]
     A2 --> Success
     A3 --> Success
     A4 --> Success
@@ -248,13 +249,13 @@ gantt
     
     section Academic
     BSc Computer Engineering (UniMoRE)    :2018-09, 2022-06
-    MSc Computer Engineering (PoliMi)     :2022-09, 2026-06
+    MSc Computer Engineering (Polito)     :2022-09, 2026-06
     
     section Professional
     Learning & Exploration                :2020-01, 2021-03
-    FKUnited Inc. - Junior                :2021-03, 2022-12
-    FKUnited Inc. - Intermediate          :2023-01, 2024-12
-    FKUnited Inc. - Senior Level          :2025-01, 2026-12
+    Engineering Work Begins               :2021-03, 2024-12
+    Founded FKUnited Consulting           :2021-06, 2026-12
+    Field Service Engineer - Tomra        :2024-01, 2026-12
     
     section Special Projects
     MIT-level Projects                    :crit, 2023-06, 2025-12
@@ -460,7 +461,7 @@ journey
 
 ```mermaid
 graph TB
-    Center([Hamza Ilyas<br/>Embedded Systems Engineer])
+    Center([Hamza Ilyas<br/>Field Service Engineer & CEO])
     
     Center --> Academic[Academic Network]
     Center --> Industry[Industry Network]
@@ -468,10 +469,11 @@ graph TB
     Center --> Social[Social Media & Online]
     
     Academic --> UniMORE[University of Modena<br/>Professors & Alumni]
-    Academic --> Poly[Politecnico di Milano<br/>Faculty & Students]
+    Academic --> Poly[Polytechnic of Turin<br/>Faculty & Students]
     Academic --> MIT[MIT Project<br/>Collaborators]
     
-    Industry --> FKUnited[FKUnited Inc.<br/>Colleagues & Clients]
+    Industry --> Tomra[Tomra Recycling<br/>Colleagues & Clients]
+    Industry --> FKUnited[FKUnited Consulting<br/>Clients & Partners]
     Industry --> Partners[Industry Partners<br/>Suppliers & Vendors]
     Industry --> Conferences[Conference Contacts<br/>Technical Community]
     
@@ -482,6 +484,7 @@ graph TB
     Social --> Online[Online Communities<br/>Tech Forums]
     
     style Center fill:#FFD700
+    style Tomra fill:#87CEEB
     style FKUnited fill:#4169E1,color:#fff
 ```
 
@@ -589,11 +592,13 @@ quadrantChart
     quadrant-3 Solo Expert
     quadrant-4 Generalist Team Player
     
+    Field Service Skills: [0.85, 0.75]
     Embedded Systems Mastery: [0.90, 0.60]
     System Design: [0.75, 0.70]
     RTOS Expertise: [0.85, 0.55]
     Project Management: [0.50, 0.80]
     Team Leadership: [0.55, 0.85]
+    Entrepreneurship: [0.65, 0.70]
     Innovation: [0.70, 0.65]
     Documentation: [0.60, 0.75]
     Continuous Learning: [0.80, 0.45]
@@ -606,13 +611,14 @@ quadrantChart
 ### What Makes Hamza Unique?
 
 1. **Dual Excellence:** Academic rigor + Professional experience
-2. **Cultural Bridge:** Pakistani identity + Italian education + Global vision
-3. **Balanced Perspective:** Theory + Practice
-4. **Youth & Ambition:** 25 years old with senior-level capabilities
-5. **Global Mindset:** International education & travel aspirations
-6. **Continuous Growth:** Never-ending learning attitude
-7. **Quality Focus:** No shortcuts, professional integrity
-8. **MIT-Level Work:** High-quality project delivery
+2. **Entrepreneurship:** CEO and Founder of engineering consulting company
+3. **Cultural Bridge:** Pakistani identity + Italian education + Global vision
+4. **Balanced Perspective:** Theory + Practice
+5. **Youth & Ambition:** 25 years old with diverse professional experience
+6. **Global Mindset:** International education & travel aspirations
+7. **Continuous Growth:** Never-ending learning attitude
+8. **Quality Focus:** No shortcuts, professional integrity
+9. **MIT-Level Work:** High-quality project delivery
 
 ---
 
@@ -620,15 +626,15 @@ quadrantChart
 
 ### Current Metrics (2025)
 - **Age:** 25 years
-- **Total Experience:** 4+ years (2021-2025)
-- **Current Role:** Embedded Systems Engineer @ FKUnited Inc.
+- **Total Experience:** Diverse professional experience (2021-2025)
+- **Current Roles:** Field Service Engineer @ Tomra Recycling, CEO @ FKUnited Engineering Consulting
 - **Education Level:** MSc Computer Engineering (Final Year)
-- **Specialization:** Embedded Systems, RTOS
-- **Key Skills:** C/C++, Embedded Systems, RTOS, System Design
+- **Specialization:** Embedded Systems, RTOS, Field Service
+- **Key Skills:** C/C++, Embedded Systems, RTOS, System Design, Technical Support
 
 ### Target Metrics (2030)
 - **Experience:** 9+ years
-- **Role:** Senior/Lead Engineer or Technical Director
+- **Role:** Senior/Lead Engineer, Expanded Consulting Business, or Technical Director
 - **Expertise:** Recognized domain expert
 - **Publications:** Technical papers, presentations
 - **Network:** Global professional network

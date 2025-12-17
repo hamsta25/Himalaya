@@ -8,7 +8,7 @@ This document outlines the comprehensive future plans, goals, and aspirations of
 
 ## Overview
 
-At 25 years old, standing at the intersection of completing an MSc in Computer Engineering from Politecnico di Milano and working as an Embedded Systems Engineer at FKUnited Inc., the future holds unlimited possibilities. This document maps out realistic yet ambitious plans across multiple life dimensions.
+At 25 years old, standing at the intersection of completing an MSc in Computer Engineering from Polytechnic of Turin and working as an Embedded Systems Engineer at FKUnited Inc., the future holds unlimited possibilities. This document maps out realistic yet ambitious plans across multiple life dimensions.
 
 ---
 
@@ -60,7 +60,7 @@ timeline
 - ✅ Complete MSc thesis research
 - ✅ Defend thesis successfully
 - ✅ Graduate with excellent results
-- 🎯 Obtain MSc degree from Politecnico di Milano
+- 🎯 Obtain MSc degree from Polytechnic of Turin
 - 🎯 Publish thesis findings (if applicable)
 
 #### Q3-Q4: Career Transition
@@ -512,7 +512,7 @@ timeline
 
 These future plans represent ambitious yet achievable goals for a 25-year-old Pakistani engineer with global aspirations. The plans are deliberately comprehensive yet flexible, providing direction while allowing for spontaneity and adaptation.
 
-The journey from Faisalabad, Pakistan to Politecnico di Milano, Italy has already proven that with dedication, hard work, and strategic planning, seemingly impossible dreams can become reality. The next decade promises even more growth, exploration, and impact.
+The journey from Faisalabad, Pakistan to Polytechnic of Turin, Italy has already proven that with dedication, hard work, and strategic planning, seemingly impossible dreams can become reality. The next decade promises even more growth, exploration, and impact.
 
 **The adventure continues...**
 

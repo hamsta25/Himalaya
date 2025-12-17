@@ -43,7 +43,7 @@ timeline
              : University of Modena and Reggio Emilia
     
     section Master's Degree (2022-2026)
-        2022 : Enrolled at Politecnico di Milano
+        2022 : Enrolled at Polytechnic of Turin
              : MSc Computer Engineering
              : Embedded Systems Specialization
         2022-2023 : First Year - Advanced Studies
@@ -91,12 +91,12 @@ graph TB
     
     BScGrad --> NextStep{Continue to<br/>Master's?}
     
-    NextStep -->|Yes| PoliMi[Politecnico di Milano<br/>Top Engineering School]
+    NextStep -->|Yes| Polito[Polytechnic of Turin<br/>Top Engineering School]
     NextStep -->|No| Work1[Direct to Work]
     
     Work1 -.Not chosen.-> X2[ ]
     
-    PoliMi --> MSc[MSc Computer Engineering<br/>Embedded Systems<br/>2022-2026]
+    Polito --> MSc[MSc Computer Engineering<br/>Embedded Systems<br/>2022-2026]
     
     MSc --> MScY1[Year 1: Advanced Coursework<br/>RTOS, Embedded Architectures]
     MScY1 --> MScY2[Year 2: Specialization<br/>Research, Projects]
@@ -133,8 +133,8 @@ graph LR
         U5[Achievement: Graduated ✅]
     end
     
-    subgraph "Politecnico di Milano - PoliMi"
-        P1[Location: Milan, Italy]
+    subgraph "Polytechnic of Turin - Polito"
+        P1[Location: Turin, Italy]
         P2[Degree: MSc Computer Engineering]
         P3[Duration: 2022-2026]
         P4[Focus: Embedded Systems]
@@ -298,10 +298,10 @@ xychart-beta
 
 ## Degree Comparison Matrix
 
-| Aspect | BSc (UniMoRE) | MSc (PoliMi) |
+| Aspect | BSc (UniMoRE) | MSc (Polito) |
 |--------|---------------|--------------|
-| **Institution** | University of Modena & Reggio Emilia | Politecnico di Milano |
-| **Location** | Modena, Italy | Milan, Italy |
+| **Institution** | University of Modena & Reggio Emilia | Polytechnic of Turin |
+| **Location** | Modena, Italy | Turin, Italy |
 | **Duration** | 2018-2022 (4 years) | 2022-2026 (4 years) |
 | **Degree Type** | Bachelor of Science | Master of Science |
 | **Field** | Computer Engineering | Computer Engineering |
@@ -451,7 +451,7 @@ graph TB
 - **Total Years of Engineering Education:** 8 years (2018-2026)
 - **Countries Studied:** Italy 🇮🇹
 - **Degrees Earned/In Progress:** 2 (BSc ✅, MSc 🔄)
-- **Universities Attended:** 2 (UniMoRE, PoliMi)
+- **Universities Attended:** 2 (UniMoRE, Polito)
 - **Specialization:** Embedded Systems
 
 ### Core Competencies Developed

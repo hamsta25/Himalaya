@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-Hamza Ilyas is a 25-year-old Pakistani computer engineer specializing in embedded systems, currently pursuing his Master's degree at Politecnico di Milano while working as an Embedded Systems Engineer at FKUnited Inc. With a unique blend of academic excellence, professional experience, and global aspirations, he represents the next generation of technology leaders bridging cultures and continents.
+Hamza Ilyas is a 25-year-old Pakistani computer engineer specializing in embedded systems, currently pursuing his Master's degree at Polytechnic of Turin while working as a Field Service Engineer at Tomra Recycling in Parma, Italy. He is also the CEO, Founder, and President of FKUnited Engineering Consulting and Service Company, offering B2B and B2Client engineering consulting services. With a unique blend of academic excellence, professional experience, entrepreneurship, and global aspirations, he represents the next generation of technology leaders bridging cultures and continents.
 
 ---
 
@@ -11,7 +11,7 @@ Hamza Ilyas is a 25-year-old Pakistani computer engineer specializing in embedde
 **Full Name:** Hamza Ilyas  
 **Age:** 25 years (Born 2000)  
 **Nationality:** Pakistani 🇵🇰  
-**Current Residence:** Italy 🇮🇹 (Milan/Modena region)  
+**Current Residence:** Italy 🇮🇹 (Turin/Modena region)  
 **Birthplace:** Faisalabad, Pakistan  
 
 **Contact & Professional Presence:**
@@ -24,7 +24,7 @@ Hamza Ilyas is a 25-year-old Pakistani computer engineer specializing in embedde
 ## Education
 
 ### Master of Science in Computer Engineering (In Progress)
-**Institution:** Politecnico di Milano (Politecnico), Milan, Italy  
+**Institution:** Polytechnic of Turin (Politecnico), Turin, Italy  
 **Duration:** September 2022 - June 2026 (Expected)  
 **Specialization:** Embedded Systems  
 **Current Status:** Final Year  
@@ -64,12 +64,32 @@ Hamza Ilyas is a 25-year-old Pakistani computer engineer specializing in embedde
 
 ## Professional Experience
 
-### Embedded Systems Engineer
-**Company:** FKUnited Inc.  
-**Duration:** March 2021 - Present (4+ years)  
-**Location:** Italy (Remote/Hybrid)
+### Field Service Engineer
+**Company:** Tomra Recycling  
+**Duration:** Current Position
+**Location:** Parma, Emilia Romagna, Italy
 
 **Responsibilities:**
+- Field service operations for recycling equipment
+- Technical support and maintenance
+- System troubleshooting and optimization
+- Customer relationship management
+- Equipment installation and commissioning
+
+### CEO, Founder & President
+**Company:** FKUnited Engineering Consulting and Service Company  
+**Duration:** Ongoing  
+**Type:** B2B and B2Client Services
+
+**Services:**
+- Engineering consulting
+- Embedded systems solutions
+- Technical advisory services
+- Project management
+
+### Previous Experience - Embedded Systems Development
+**Duration:** 2021 - Present  
+**Focus Areas:**
 - Design and development of embedded systems solutions
 - Real-time operating systems (RTOS) implementation
 - Hardware-software integration and testing
@@ -79,7 +99,7 @@ Hamza Ilyas is a 25-year-old Pakistani computer engineer specializing in embedde
 - Client communication and requirement analysis
 
 **Key Achievements:**
-- Successfully delivered MIT-level projects
+- Successfully delivered MIT-level projects (high-complexity R&D meeting standards comparable to top-tier academic institutions)
 - Contributed to innovative IoT solutions
 - Developed industrial control systems
 - Technical presentations and knowledge sharing
@@ -173,14 +193,14 @@ Hardware-software integration project demonstrating competency in both hardware 
 ### Study Abroad Journey
 **2018 - Present:** Studying and working in Italy  
 - Bachelor's degree from UniMoRE (2018-2022)
-- Master's degree at Politecnico di Milano (2022-2026)
+- Master's degree at Polytechnic of Turin (2022-2026)
 - Professional work at FKUnited Inc. (2021-Present)
 - Cultural adaptation and integration
 
 ### Visas & Travel
 - **Italy:** Residence permit for studies and work
-- **United Kingdom:** 6-month study visa (2024)
-- **Argentina:** 6-month study visa (2024)
+- **United Kingdom:** 6-month study visa (2024) - University of Exeter, approved through University of Modena and Reggio Emilia (UniMoRE)
+- **Argentina:** 6-month study visa (2024) - Universidad Nacional de Córdoba (FAMAF and FCEFyN), approved through Polytechnic of Turin (Polito)
 - **Future Plans:** Extensive travel across Asia, South America, and beyond
 
 ---
@@ -237,23 +257,28 @@ Hamza Ilyas brings a unique combination of:
 
 1. **Dual Excellence:** Academic rigor from top universities + professional experience in industry
 2. **Cultural Bridge:** Pakistani heritage + Italian education = global perspective
-3. **Youth & Experience:** 25 years old with 4+ years professional experience
+3. **Youth & Experience:** 25 years old with diverse professional experience
 4. **Technical Depth:** Specialized expertise in embedded systems and RTOS
-5. **Quality Mindset:** MIT-level project execution standards
-6. **Global Vision:** International education, travel aspirations, cross-cultural competence
-7. **Balanced Approach:** Theory + Practice, Work + Study, Local + Global
+5. **Entrepreneurship:** Founder and CEO of engineering consulting company
+6. **Quality Mindset:** MIT-level project execution standards
+7. **Global Vision:** International education, travel aspirations, cross-cultural competence
+8. **Balanced Approach:** Theory + Practice, Work + Study, Local + Global
 
 ---
 
 ## Professional Affiliations
 
-**FKUnited Inc.**  
-- Embedded Systems Engineer
-- Active team member
-- Project contributor
-- Technical presenter
+**Tomra Recycling**  
+- Field Service Engineer
+- Current position in Parma, Italy
+- Technical support and operations
 
-**Politecnico di Milano**  
+**FKUnited Engineering Consulting and Service Company**  
+- CEO, Founder & President
+- B2B and B2Client services
+- Engineering consulting and solutions
+
+**Polytechnic of Turin**  
 - MSc Student (Final Year)
 - Research contributor
 - Academic community member
@@ -300,7 +325,7 @@ Hamza Ilyas brings a unique combination of:
 
 Available upon request from:
 - FKUnited Inc. (Professional references)
-- Politecnico di Milano (Academic references)
+- Polytechnic of Turin (Academic references)
 - University of Modena and Reggio Emilia (Academic references)
 
 ---
@@ -334,7 +359,7 @@ As a 25-year-old Pakistani engineer who has successfully navigated international
 
 **Contact Information:**
 - **Professional:** Through FKUnited Inc. or LinkedIn
-- **Location:** Milan/Modena, Italy
+- **Location:** Turin/Modena, Italy
 - **Availability:** Available for discussions and opportunities
 
 ---

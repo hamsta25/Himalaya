@@ -173,7 +173,7 @@ This project showcases diverse Mermaid diagram types:
 
 ### Current Locations
 - 🇵🇰 **Pakistan** - Birthplace (Faisalabad)
-- 🇮🇹 **Italy** - Current residence (Milan/Modena)
+- 🇮🇹 **Italy** - Current residence (Turin/Modena)
 
 ### Visas Obtained
 - 🇬🇧 **United Kingdom** - 6-month study visa
@@ -190,7 +190,7 @@ This project showcases diverse Mermaid diagram types:
 ## 💼 Professional Focus
 
 **Current Role:** Embedded Systems Engineer @ FKUnited Inc.  
-**Education:** MSc Computer Engineering (Final Year) @ Politecnico di Milano  
+**Education:** MSc Computer Engineering (Final Year) @ Polytechnic of Turin  
 **Specialization:** Embedded Systems, RTOS, IoT  
 **Experience:** 4+ years professional experience
 
@@ -198,7 +198,7 @@ This project showcases diverse Mermaid diagram types:
 
 ## 🎓 Educational Background
 
-- **MSc Computer Engineering** - Politecnico di Milano (2022-2026)
+- **MSc Computer Engineering** - Polytechnic of Turin (2022-2026)
 - **BSc Computer Engineering** - University of Modena (2018-2022)
 - **Specialization:** Embedded Systems
 - **Status:** Final year MSc student
