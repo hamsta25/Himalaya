@@ -44,7 +44,7 @@ timeline
                 : City tour & birthplace visit
                 : Himalaya trek 🏔️
                 : Uzbekistan journey 🇺🇿
-                : Risk: First attempt!
+                : Risk: Challenging terrain and cross-border logistics
     
     section High Priority Goals (2026-2027)
         2026 Q2 : India Visa Application 🇮🇳
@@ -526,7 +526,7 @@ mindmap
 
 ## Motivational Quotes
 
-> **"A young 25-year-old Pakistani boy with a green passport 🇵🇰 and a big dream: See the world and collect each country's visas, especially India & Kashmir!"**
+> **"A 25-year-old Pakistani engineer with a green passport 🇵🇰 and a big dream: See the world and collect each country's visas, especially India & Kashmir!"**
 
 > **"The world is a book, and those who do not travel read only one page."**
 

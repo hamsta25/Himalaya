@@ -266,7 +266,7 @@ Hamza Ilyas brings a unique combination of:
 
 ## Recognition & Honors
 
-- Successfully completed MIT-level projects
+- Successfully completed MIT-level projects (high-complexity research and development projects meeting standards comparable to top-tier academic institutions, demonstrating advanced technical capabilities and professional excellence)
 - Maintained academic excellence while working professionally
 - International student achievement (Pakistan to Italy)
 - Professional recognition at FKUnited Inc.

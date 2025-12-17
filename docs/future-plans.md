@@ -518,7 +518,7 @@ The journey from Faisalabad, Pakistan to Politecnico di Milano, Italy has alread
 
 ---
 
-*"A young 25-year-old Pakistani boy with a green passport 🇵🇰 and a big dream: See the world and collect each country's visas, especially India & Kashmir!"*
+*"A 25-year-old Pakistani engineer with a green passport 🇵🇰 and a big dream: See the world and collect each country's visas, especially India & Kashmir!"*
 
 *This is just the beginning.*
 
