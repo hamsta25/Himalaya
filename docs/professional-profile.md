@@ -99,7 +99,7 @@ Hamza Ilyas is a 25-year-old Pakistani computer engineer specializing in embedde
 - Client communication and requirement analysis
 
 **Key Achievements:**
-- Successfully delivered MIT-level projects (high-complexity R&D meeting standards comparable to top-tier academic institutions)
+- Successfully delivered MIT-level projects
 - Contributed to innovative IoT solutions
 - Developed industrial control systems
 - Technical presentations and knowledge sharing

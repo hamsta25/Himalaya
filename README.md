@@ -29,6 +29,7 @@ See the [HAMZI_LIFE_README.md](../../tree/Hamzi_life/HAMZI_LIFE_README.md) file 
 
 Created and maintained by **Hamza Ilyas**  
 - 🎓 MSc Computer Engineering Student @ Polytechnic of Turin  
-- 💼 Embedded Systems Engineer @ [FKUnited Inc.](https://fkunited.it)  
+- 💼 Field Service Engineer @ Tomra Recycling, Parma, Italy
+- 🏢 CEO & Founder @ FKUnited Engineering Consulting
 - 🌍 World Explorer with a Dream to See the World  
 - 🇵🇰 Proud Pakistani with Global Aspirations

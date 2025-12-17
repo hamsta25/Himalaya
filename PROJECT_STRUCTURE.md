@@ -189,10 +189,13 @@ This project showcases diverse Mermaid diagram types:
 
 ## 💼 Professional Focus
 
-**Current Role:** Embedded Systems Engineer @ FKUnited Inc.  
+**Current Roles:**
+- Field Service Engineer @ Tomra Recycling, Parma, Italy
+- CEO, Founder & President @ FKUnited Engineering Consulting (B2B/B2Client)
+
 **Education:** MSc Computer Engineering (Final Year) @ Polytechnic of Turin  
-**Specialization:** Embedded Systems, RTOS, IoT  
-**Experience:** 4+ years professional experience
+**Specialization:** Embedded Systems, RTOS, IoT, Field Service  
+**Experience:** Diverse professional experience across engineering and entrepreneurship
 
 ---
 
