@@ -23,6 +23,22 @@ A comprehensive life journey documentation project featuring:
 
 See the [HAMZI_LIFE_README.md](../../tree/Hamzi_life/HAMZI_LIFE_README.md) file in the Hamzi_life branch for complete details.
 
+### 🎓 **application-process** Branch
+A comprehensive MIT graduate program application management system featuring:
+- 250-word relevant experience description (completed)
+- Complete application checklist and tracking
+- Detailed status monitoring and progress metrics
+- Comprehensive TODO list with priorities
+- MIT expectations and requirements documentation
+- Detailed timeline with deadlines and milestones
+- Organized directories for CV, thesis, experience, and documents
+
+**Purpose:** Systematic management and tracking of MIT graduate program application process, including all materials, documentation, checklists, and status tracking.
+
+👉 **[View Application Process Documentation](../../tree/application-process)**
+
+See the [mit-application/README.md](../../tree/application-process/mit-application/README.md) file in the application-process branch for complete details.
+
 ---
 
 ## About This Repository
