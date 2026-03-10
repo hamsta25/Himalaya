@@ -1,0 +1,265 @@
+<mxfile host="app.diagrams.net" modified="2024-01-01T00:00:00.000Z" agent="Draw.io" version="22.0.0" type="device">
+  <diagram name="Travel Timeline" id="travel-timeline">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        
+        <!-- Title -->
+        <mxCell id="title" value="Himalaya Journey Timeline - January 10-25, 2026" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="400" y="30" width="600" height="40" as="geometry" />
+        </mxCell>
+        
+        <!-- Main Timeline Line -->
+        <mxCell id="timeline" value="" style="endArrow=classic;html=1;strokeWidth=4;strokeColor=#666666;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="400" as="sourcePoint" />
+            <mxPoint x="1300" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        
+        <!-- Week 1 Label -->
+        <mxCell id="week1_label" value="WEEK 1: Weddings &amp; Punjab Tour" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#d6b656" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="600" height="30" as="geometry" />
+        </mxCell>
+        
+        <!-- Week 2 Label -->
+        <mxCell id="week2_label" value="WEEK 2: Mountains &amp; International" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1;fontColor=#6c8ebf" vertex="1" parent="1">
+          <mxGeometry x="700" y="100" width="600" height="30" as="geometry" />
+        </mxCell>
+        
+        <!-- Day 1: Jan 10 -->
+        <mxCell id="day1_marker" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="95" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="day1_line" value="" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="105" y="390" as="sourcePoint" />
+            <mxPoint x="105" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="day1_box" value="DAY 1&#xa;Jan 10 (Fri)&#xa;&#xa;KARACHI&#xa;Arrival" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="130" height="90" as="geometry" />
+        </mxCell>
+        
+        <!-- Day 2-3: Jan 11-12 -->
+        <mxCell id="day2_marker" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="185" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="day2_line" value="" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="195" y="390" as="sourcePoint" />
+            <mxPoint x="195" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="day2_box" value="DAY 2-3&#xa;Jan 11-12 (Sat-Sun)&#xa;&#xa;KARACHI&#xa;★ Ammar's Wedding&#xa;★ Arooj's Wedding" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="130" y="480" width="130" height="110" as="geometry" />
+        </mxCell>
+        
+        <!-- Day 4: Jan 13 -->
+        <mxCell id="day4_marker" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="290" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="day4_line" value="" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="390" as="sourcePoint" />
+            <mxPoint x="300" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="day4_box" value="DAY 4&#xa;Jan 13 (Mon)&#xa;&#xa;DG KHAN&#xa;480 km drive" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="235" y="150" width="130" height="90" as="geometry" />
+        </mxCell>
+        
+        <!-- Day 5-6: Jan 14-15 -->
+        <mxCell id="day5_marker" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="395" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="day5_line" value="" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405" y="390" as="sourcePoint" />
+            <mxPoint x="405" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="day5_box" value="DAY 5-6&#xa;Jan 14-15 (Tue-Wed)&#xa;&#xa;LAHORE&#xa;• Badshahi Mosque&#xa;• Food Street&#xa;• Shalimar Gardens" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="340" y="480" width="130" height="110" as="geometry" />
+        </mxCell>
+        
+        <!-- Day 7: Jan 16 -->
+        <mxCell id="day7_marker" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="500" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="day7_line" value="" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="390" as="sourcePoint" />
+            <mxPoint x="510" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="day7_box" value="DAY 7&#xa;Jan 16 (Thu)&#xa;&#xa;FAISALABAD&#xa;★ Birthplace Visit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="445" y="150" width="130" height="90" as="geometry" />
+        </mxCell>
+        
+        <!-- Day 8: Jan 17 -->
+        <mxCell id="day8_marker" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="605" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="day8_line" value="" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="615" y="390" as="sourcePoint" />
+            <mxPoint x="615" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="day8_box" value="DAY 8&#xa;Jan 17 (Fri)&#xa;&#xa;OKARA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="550" y="480" width="130" height="80" as="geometry" />
+        </mxCell>
+        
+        <!-- Day 9-10: Jan 18-19 -->
+        <mxCell id="day9_marker" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="710" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="day9_line" value="" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#d6b656;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="390" as="sourcePoint" />
+            <mxPoint x="720" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="day9_box" value="DAY 9-10&#xa;Jan 18-19 (Sat-Sun)&#xa;&#xa;ISLAMABAD&#xa;★ Special Dinner&#xa;• Faisal Mosque&#xa;• Margalla Hills" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="655" y="140" width="130" height="110" as="geometry" />
+        </mxCell>
+        
+        <!-- Day 11-12: Jan 20-21 -->
+        <mxCell id="day11_marker" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="830" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="day11_line" value="" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="390" as="sourcePoint" />
+            <mxPoint x="840" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="day11_box" value="DAY 11-12&#xa;Jan 20-21 (Mon-Tue)&#xa;&#xa;HUNZA VALLEY&#xa;• Karakoram Highway&#xa;• Baltit &amp; Altit Forts&#xa;• Attabad Lake&#xa;• Mountain Views" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="775" y="480" width="130" height="130" as="geometry" />
+        </mxCell>
+        
+        <!-- Day 13: Jan 22 -->
+        <mxCell id="day13_marker" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="950" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="day13_line" value="" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="960" y="390" as="sourcePoint" />
+            <mxPoint x="960" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="day13_box" value="DAY 13&#xa;Jan 22 (Wed)&#xa;&#xa;GILGIT&#xa;Return to Islamabad" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="895" y="150" width="130" height="90" as="geometry" />
+        </mxCell>
+        
+        <!-- Day 14-15: Jan 23-24 -->
+        <mxCell id="day14_marker" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="day14_line" value="" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#b85450;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1085" y="390" as="sourcePoint" />
+            <mxPoint x="1085" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="day14_box" value="DAY 14-15&#xa;Jan 23-24 (Thu-Fri)&#xa;&#xa;TASHKENT&#xa;(Uzbekistan)&#xa;• Chorsu Bazaar&#xa;• Independence Square&#xa;• Metro Tour" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="1020" y="480" width="130" height="130" as="geometry" />
+        </mxCell>
+        
+        <!-- Day 16: Jan 25 -->
+        <mxCell id="day16_marker" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="day16_line" value="" style="endArrow=none;html=1;strokeWidth=2;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="390" as="sourcePoint" />
+            <mxPoint x="1210" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="day16_box" value="DAY 16&#xa;Jan 25 (Sun)&#xa;&#xa;DEPARTURE&#xa;via Karachi" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="1145" y="150" width="130" height="90" as="geometry" />
+        </mxCell>
+        
+        <!-- Date Labels on Timeline -->
+        <mxCell id="date1" value="Jan 10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10" vertex="1" parent="1">
+          <mxGeometry x="75" y="410" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="date2" value="Jan 13" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10" vertex="1" parent="1">
+          <mxGeometry x="270" y="410" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="date3" value="Jan 16" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10" vertex="1" parent="1">
+          <mxGeometry x="480" y="410" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="date4" value="Jan 18" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10" vertex="1" parent="1">
+          <mxGeometry x="690" y="410" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="date5" value="Jan 20" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10" vertex="1" parent="1">
+          <mxGeometry x="810" y="410" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="date6" value="Jan 23" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10" vertex="1" parent="1">
+          <mxGeometry x="1055" y="410" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="date7" value="Jan 25" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10" vertex="1" parent="1">
+          <mxGeometry x="1180" y="410" width="60" height="20" as="geometry" />
+        </mxCell>
+        
+        <!-- Legend Box -->
+        <mxCell id="legend_box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;dashed=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="650" width="300" height="160" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="legend_title" value="COLOR CODING" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="655" width="300" height="25" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="leg1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="55" y="690" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="leg1_text" value="Karachi (Start/End)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="95" y="687" width="230" height="25" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="leg2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="55" y="720" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="leg2_text" value="Punjab Province Cities" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="95" y="717" width="230" height="25" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="leg3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="55" y="750" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="leg3_text" value="Himalayan Mountain Region" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="95" y="747" width="230" height="25" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="leg4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="55" y="780" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="leg4_text" value="International (Uzbekistan)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="95" y="777" width="230" height="25" as="geometry" />
+        </mxCell>
+        
+        <!-- Summary Box -->
+        <mxCell id="summary_box" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="380" y="650" width="900" height="160" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="summary_title" value="JOURNEY BREAKDOWN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" y="655" width="900" height="25" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="summary_week1" value="&lt;b&gt;WEEK 1 (Jan 10-16):&lt;/b&gt; Weddings &amp; Cultural Tour&#xa;• Days 1-3: Karachi weddings and celebrations&#xa;• Days 4-7: Punjab province road trip (DG Khan → Lahore → Faisalabad → Okara)&#xa;• Key Events: 2 weddings, birthplace visit, historical sites" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="400" y="690" width="420" height="105" as="geometry" />
+        </mxCell>
+        
+        <mxCell id="summary_week2" value="&lt;b&gt;WEEK 2 (Jan 17-25):&lt;/b&gt; Mountains &amp; International&#xa;• Days 8-10: Islamabad special dinner and sightseeing&#xa;• Days 11-13: Himalayan journey (Karakoram Highway, Hunza, Gilgit)&#xa;• Days 14-16: Uzbekistan exploration and return via Karachi&#xa;• Highlights: KKH, mountain views, international culture" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=11" vertex="1" parent="1">
+          <mxGeometry x="850" y="690" width="410" height="105" as="geometry" />
+        </mxCell>
+        
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
